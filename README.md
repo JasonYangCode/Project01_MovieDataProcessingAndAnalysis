@@ -11,27 +11,29 @@ This project is one of the practical projects of AI Engineer (computer vision) i
 
 
 1. Data cleaning
-<br/>1.1remove null value
-<br/>1.2change time field to time tag
+<br/>1.1Remove null value
+<br/>1.2Change time field to time tag
 
-2. 好评率统计
-<br/>2.1.分析出不同导演电影的好评率，并筛选出TOP20
-<br/>2.2通过多系列柱状图，做图表可视化
+2. Favorable rate statistics 
+<br/>2.1Analyze the praise rate of different directors and select the top 20
+<br/>2.2Make chart visualization through multiple series of histogram
 
-3. 每年评影人数统计
-<br/>3.1计算统计出2001-2016年每年评影人数总量
-<br/>3.2通过面积图，做图表可视化，分析每年人数总量变化规律
-<br/>3.3验证是否有异常值（极度异常）
-<br/>3.4创建函数分析出数据外限最大最小值
-<br/>3.5筛选查看异常值
+3. Statistics of annual number of Film Critics
+<br/>3.1Calculate and count the total number of film critics in 2001-2016
+<br/>3.2Make chart visualization through area chart and analyze the change rule of total number of people every year
+<br/>3.3Verify whether there is abnormal value (extremely abnormal)
+<br/>3.4Create function to analyze the maximum and minimum data limit
+<br/>3.5Filter and view outliers
 
-	
+----------
+
+			
 1. 数据清洗
 <br/>1.1去除空值
 <br/>1.2将时间字段改为时间标签
 
 2. 好评率统计
-<br/>2.1.分析出不同导演电影的好评率，并筛选出TOP20
+<br/>2.1分析出不同导演电影的好评率，并筛选出TOP20
 <br/>2.2通过多系列柱状图，做图表可视化
 
 3. 每年评影人数统计
